@@ -1,0 +1,66 @@
+name: metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Main metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Birditch
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+          config_display: large
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_limit: 15
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_limit: 0
+
+      - name: Languages plugin
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Birditch
+          base: ""
+          config_timezone: America/New_York
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+
+      - name: Iso-calendar plugin (full year of commits)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Birditch
+          base: ""
+          config_timezone: America/New_York
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

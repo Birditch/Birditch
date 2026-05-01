@@ -1,0 +1,12 @@
+# Local-only working directories — never push.
+temp/
+.omc/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~

@@ -11,22 +11,16 @@
 
 <p align="center">
   <a href="https://github.com/Birditch">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+tools+that+disappear+into+the+network.;Creator+of+NetMedic+·+DNS+%26+network+diagnostics.;Based+in+New+York+·+UTC%E2%88%9204+·+Always+shipping." alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+tools+that+disappear+into+the+network.;Creator+of+NetMedic+%E2%80%94+DNS+%26+network+diagnostics.;Based+in+New+York+%E2%80%94+UTC-04+%E2%80%94+always+shipping." alt="What I'm about"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Birditch?tab=repositories">
-    <img src="https://img.shields.io/badge/Location-New%20York%2C%20NY-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="New York"/>
-  </a>
-  <img src="https://img.shields.io/badge/Timezone-UTC%E2%88%9204-7c3aed?style=for-the-badge&logo=clockify&logoColor=white" alt="UTC-4"/>
-  <a href="https://github.com/Birditch?tab=followers">
-    <img src="https://img.shields.io/github/followers/Birditch?style=for-the-badge&logo=github&label=Followers&color=2ea043&labelColor=0d1117" alt="followers"/>
-  </a>
+  <a href="https://github.com/Birditch?tab=repositories"><img src="https://img.shields.io/badge/Location-New%20York%2C%20NY-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="New York"/></a>
+  <img src="https://img.shields.io/badge/Timezone-UTC--04-7c3aed?style=for-the-badge&logo=clockify&logoColor=white" alt="UTC-04"/>
+  <a href="https://github.com/Birditch?tab=followers"><img src="https://img.shields.io/github/followers/Birditch?style=for-the-badge&logo=github&label=Followers&color=2ea043&labelColor=0d1117" alt="followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=Birditch&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="profile views"/>
-  <a href="https://github.com/Birditch/NetMedic/stargazers">
-    <img src="https://img.shields.io/github/stars/Birditch?style=for-the-badge&logo=apachespark&color=f9d71c&labelColor=0d1117&label=Total+Stars" alt="total stars"/>
-  </a>
+  <a href="https://github.com/Birditch/NetMedic/stargazers"><img src="https://img.shields.io/github/stars/Birditch?style=for-the-badge&logo=apachespark&color=f9d71c&labelColor=0d1117&label=Total+Stars" alt="total stars"/></a>
 </p>
 
 ---

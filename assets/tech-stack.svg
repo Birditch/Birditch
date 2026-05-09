@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+  <title id="title">Birditch technology stack</title>
+  <desc id="desc">Technology stack ordered by fluency: Java, Node.js, Python, PHP, C#, C++, Rust.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="220" rx="18" fill="url(#card)" stroke="#30363d"/>
+  <text x="48" y="48" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" font-weight="800">Stack by fluency</text>
+  <text x="48" y="75" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14">从熟练到持续投入，按当前工程使用习惯排序。</text>
+
+  <g transform="translate(48 108)" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <g>
+      <rect x="0" y="0" width="116" height="56" rx="12" fill="#1f6feb"/>
+      <text x="58" y="34" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="800">Java</text>
+    </g>
+    <g transform="translate(126 0)">
+      <rect x="0" y="0" width="122" height="56" rx="12" fill="#238636"/>
+      <text x="61" y="34" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="800">Node.js</text>
+    </g>
+    <g transform="translate(258 0)">
+      <rect x="0" y="0" width="126" height="56" rx="12" fill="#8957e5"/>
+      <text x="63" y="34" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="800">Python</text>
+    </g>
+    <g transform="translate(394 0)">
+      <rect x="0" y="0" width="100" height="56" rx="12" fill="#6f42c1"/>
+      <text x="50" y="34" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="800">PHP</text>
+    </g>
+    <g transform="translate(504 0)">
+      <rect x="0" y="0" width="92" height="56" rx="12" fill="#d29922"/>
+      <text x="46" y="34" text-anchor="middle" fill="#0d1117" font-size="20" font-weight="800">C#</text>
+    </g>
+    <g transform="translate(606 0)">
+      <rect x="0" y="0" width="96" height="56" rx="12" fill="#da3633"/>
+      <text x="48" y="34" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="800">C++</text>
+    </g>
+    <g transform="translate(712 0)">
+      <rect x="0" y="0" width="106" height="56" rx="12" fill="#f78166"/>
+      <text x="53" y="34" text-anchor="middle" fill="#0d1117" font-size="20" font-weight="800">Rust</text>
+    </g>
+    <g transform="translate(828 0)">
+      <rect x="0" y="0" width="62" height="56" rx="12" fill="#30363d"/>
+      <text x="31" y="34" text-anchor="middle" fill="#c9d1d9" font-size="20" font-weight="800">...</text>
+    </g>
+  </g>
+</svg>

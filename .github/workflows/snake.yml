@@ -16,7 +16,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Generate snake animations
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: Birditch
           outputs: |

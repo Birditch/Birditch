@@ -12,7 +12,7 @@
     <text x="42" y="48" fill="#ffffff" font-size="24" font-weight="800">近7天提交次数</text>
     <text x="42" y="76" fill="#8b949e" font-size="14">包含当前 token 可访问的公开与私有仓库，不展示私有仓库名称。</text>
     <text x="42" y="136" fill="#58a6ff" font-size="64" font-weight="900">28</text>
-    <text x="44" y="166" fill="#8b949e" font-size="13">更新时间 2026/05/31 00:52 New York</text>
+    <text x="44" y="166" fill="#8b949e" font-size="13">更新时间 2026/05/31 05:24 New York</text>
         <g>
           <rect x="330" y="120" width="48" height="26" rx="8" fill="#58a6ff"/>
           <text x="354" y="110" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">4</text>

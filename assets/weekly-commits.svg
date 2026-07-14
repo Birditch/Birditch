@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="210" viewBox="0 0 960 210" role="img" aria-labelledby="title desc">
   <title id="title">近7天提交次数</title>
-  <desc id="desc">Birditch 最近 7 天 Git commit 数量，总计 183 次。私有仓库会在 token 有权限时计入。</desc>
+  <desc id="desc">Birditch 最近 7 天 Git commit 数量，总计 188 次。私有仓库会在 token 有权限时计入。</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
@@ -11,8 +11,8 @@
   <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
     <text x="42" y="48" fill="#ffffff" font-size="24" font-weight="800">近7天提交次数</text>
     <text x="42" y="76" fill="#8b949e" font-size="14">包含当前 token 可访问的公开与私有仓库，不展示私有仓库名称。</text>
-    <text x="42" y="136" fill="#58a6ff" font-size="64" font-weight="900">183</text>
-    <text x="44" y="166" fill="#8b949e" font-size="13">更新时间 2026/07/13 23:33 New York</text>
+    <text x="42" y="136" fill="#58a6ff" font-size="64" font-weight="900">188</text>
+    <text x="44" y="166" fill="#8b949e" font-size="13">更新时间 2026/07/14 04:27 New York</text>
         <g>
           <rect x="330" y="136" width="48" height="10" rx="8" fill="#58a6ff"/>
           <text x="354" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">4</text>
@@ -50,8 +50,8 @@
           <text x="724" y="190" text-anchor="middle" fill="#8b949e" font-size="11">07-13</text>
         </g>
         <g>
-          <rect x="774" y="136" width="48" height="10" rx="8" fill="#30363d"/>
-          <text x="798" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">0</text>
+          <rect x="774" y="136" width="48" height="10" rx="8" fill="#f0b72f"/>
+          <text x="798" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">5</text>
           <text x="798" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Tue</text>
           <text x="798" y="190" text-anchor="middle" fill="#8b949e" font-size="11">07-14</text>
         </g>

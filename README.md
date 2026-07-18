@@ -6,7 +6,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Birditch profile"/>
+  <img width="100%" src="./assets/profile-hero.svg" alt="Birditch profile"/>
 </p>
 
 <p align="center">
@@ -23,24 +23,16 @@
 
 ## 关于我
 
-```ts
-const birditch = {
-  role: "Software engineer / builder",
-  location: "New York, NY",
-  stackByFluency: ["Java", "Node.js", "Python", "PHP", "C#", "C++", "Rust", "..."],
-  focus: ["backend systems", "automation", "developer tools", "network/runtime diagnostics"],
-  preference: "把复杂问题拆到可验证、可维护、可持续迭代。",
-};
-```
-
-我更喜欢做能长期运行的工程系统：稳定的后端、清晰的自动化、可观测的工具链，以及真正能减少重复劳动的产品细节。
+<p align="center">
+  <img width="100%" src="./assets/about-me.svg" alt="关于 Birditch：把复杂系统做成可靠产品"/>
+</p>
 
 ---
 
 ## 技术栈
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" alt="Java, Node.js, Python, PHP, C#, C++, Rust"/>
+  <img width="100%" src="./assets/tech-stack.svg" alt="Java, Node.js, Python, PHP, C#, C++, Rust"/>
 </p>
 
 <p align="center">
@@ -95,27 +87,14 @@ const birditch = {
 ## GitHub 数据
 
 <p align="center">
-  <img src="./assets/weekly-commits.svg" alt="近7天提交次数"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Birditch/Birditch/output/weekly-commits.svg" alt="近7天提交次数"/>
 </p>
 
 <details open>
 <summary><strong>近1年贡献活动</strong></summary>
 
 <p align="center">
-  <img src="./assets/metrics.plugin.isocalendar.svg" alt="近1年贡献日历"/>
-</p>
-
-</details>
-
-<details>
-<summary><strong>自动刷新指标</strong></summary>
-
-<p align="center">
-  <img src="./assets/metrics.svg" alt="GitHub metrics"/>
-</p>
-
-<p align="center">
-  <img src="./assets/metrics.plugin.languages.svg" alt="language metrics"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Birditch/Birditch/output/contribution-calendar.svg" alt="近1年贡献日历"/>
 </p>
 
 </details>
@@ -127,7 +106,7 @@ const birditch = {
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Birditch/Birditch/output/github-contribution-grid-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Birditch/Birditch/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+    <img width="100%" src="https://raw.githubusercontent.com/Birditch/Birditch/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
   </picture>
 </p>
 

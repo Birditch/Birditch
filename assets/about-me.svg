@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+  <title id="title">关于 Birditch</title>
+  <desc id="desc">Birditch 是一位专注后端系统、自动化、开发者工具与运行时诊断的软件工程师。</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1f2937" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="340" rx="8" fill="#090c10"/>
+  <rect width="960" height="340" rx="8" fill="url(#grid)" opacity="0.55"/>
+  <path d="M0 1H960" stroke="#5eead4" stroke-width="3"/>
+  <path d="M704 0V340" stroke="#27303b"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <g transform="translate(48 42)">
+      <rect width="8" height="8" fill="#5eead4"/>
+      <text x="20" y="9" fill="#9ca3af" font-size="12" font-weight="700">BIRDITCH / SOFTWARE ENGINEER</text>
+    </g>
+
+    <text x="48" y="112" fill="#f8fafc" font-size="38" font-weight="900">把复杂系统，做成可靠产品</text>
+    <text x="48" y="150" fill="#a7b0bd" font-size="17">从后端与基础设施，到自动化工具与运行时诊断。</text>
+    <text x="48" y="178" fill="#a7b0bd" font-size="17">我在意可验证的结果，也在意系统几年后是否仍然清晰、稳定、好维护。</text>
+
+    <path d="M48 218H656" stroke="#27303b"/>
+
+    <g transform="translate(48 244)">
+      <rect width="6" height="52" fill="#60a5fa"/>
+      <text x="20" y="15" fill="#64748b" font-size="11" font-weight="800">SYSTEMS</text>
+      <text x="20" y="40" fill="#e5e7eb" font-size="17" font-weight="700">后端 · API · 数据一致性</text>
+    </g>
+    <g transform="translate(258 244)">
+      <rect width="6" height="52" fill="#fbbf24"/>
+      <text x="20" y="15" fill="#64748b" font-size="11" font-weight="800">AUTOMATION</text>
+      <text x="20" y="40" fill="#e5e7eb" font-size="17" font-weight="700">工具链 · CI/CD · 运维</text>
+    </g>
+    <g transform="translate(478 244)">
+      <rect width="6" height="52" fill="#fb7185"/>
+      <text x="20" y="15" fill="#64748b" font-size="11" font-weight="800">CRAFT</text>
+      <text x="20" y="40" fill="#e5e7eb" font-size="17" font-weight="700">可靠 · 清晰 · 可持续</text>
+    </g>
+
+    <g transform="translate(746 44)">
+      <text x="0" y="0" fill="#64748b" font-size="11" font-weight="800">OPERATING FROM</text>
+      <text x="0" y="39" fill="#f8fafc" font-size="26" font-weight="900">NEW YORK</text>
+      <text x="0" y="64" fill="#5eead4" font-size="14" font-weight="700">UTC-04</text>
+
+      <path d="M0 96H166" stroke="#27303b"/>
+      <text x="0" y="129" fill="#64748b" font-size="11" font-weight="800">CURRENT SIGNAL</text>
+      <text x="0" y="160" fill="#f8fafc" font-size="19" font-weight="800">BUILDING</text>
+      <text x="0" y="184" fill="#a7b0bd" font-size="14">systems that hold up</text>
+
+      <path d="M0 216H166" stroke="#27303b"/>
+      <circle cx="7" cy="252" r="7" fill="#39d353"/>
+      <text x="24" y="257" fill="#d1d5db" font-size="14" font-weight="700">OPEN TO HARD PROBLEMS</text>
+    </g>
+  </g>
+</svg>

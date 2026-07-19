@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+  <title id="title">Birditch database stack</title>
+  <desc id="desc">Database experience ordered as MySQL, MariaDB, PostgreSQL, ClickHouse, DuckDB, SQLite.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#121820"/>
+    </linearGradient>
+    <symbol id="database" viewBox="0 0 24 24">
+      <ellipse cx="12" cy="5" rx="8" ry="3" fill="none" stroke="currentColor" stroke-width="2"/>
+      <path d="M4 5v7c0 1.7 3.6 3 8 3s8-1.3 8-3V5M4 12v7c0 1.7 3.6 3 8 3s8-1.3 8-3v-7" fill="none" stroke="currentColor" stroke-width="2"/>
+    </symbol>
+  </defs>
+
+  <rect width="960" height="220" rx="8" fill="url(#surface)" stroke="#30363d"/>
+  <path d="M0 1H960" stroke="#f0b72f" stroke-width="3"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="48" y="48" fill="#ffffff" font-size="24" font-weight="800">Database systems</text>
+    <text x="48" y="75" fill="#8b949e" font-size="14">事务型、分析型与嵌入式数据库，按当前使用顺序排列。</text>
+
+    <g transform="translate(48 108)">
+      <g>
+        <rect width="134" height="56" rx="8" fill="#17212b" stroke="#00758f"/>
+        <use href="#database" x="14" y="16" width="24" height="24" color="#00a7c4"/>
+        <text x="84" y="34" text-anchor="middle" fill="#f8fafc" font-size="17" font-weight="800">MySQL</text>
+      </g>
+      <g transform="translate(146 0)">
+        <rect width="134" height="56" rx="8" fill="#191d24" stroke="#c0765a"/>
+        <use href="#database" x="14" y="16" width="24" height="24" color="#c0765a"/>
+        <text x="86" y="34" text-anchor="middle" fill="#f8fafc" font-size="16" font-weight="800">MariaDB</text>
+      </g>
+      <g transform="translate(292 0)">
+        <rect width="134" height="56" rx="8" fill="#162130" stroke="#336791"/>
+        <use href="#database" x="14" y="16" width="24" height="24" color="#60a5fa"/>
+        <text x="87" y="34" text-anchor="middle" fill="#f8fafc" font-size="15" font-weight="800">PostgreSQL</text>
+      </g>
+      <g transform="translate(438 0)">
+        <rect width="134" height="56" rx="8" fill="#211f15" stroke="#f0b72f"/>
+        <use href="#database" x="14" y="16" width="24" height="24" color="#f0b72f"/>
+        <text x="87" y="34" text-anchor="middle" fill="#f8fafc" font-size="16" font-weight="800">ClickHouse</text>
+      </g>
+      <g transform="translate(584 0)">
+        <rect width="134" height="56" rx="8" fill="#202017" stroke="#f5d547"/>
+        <use href="#database" x="14" y="16" width="24" height="24" color="#f5d547"/>
+        <text x="86" y="34" text-anchor="middle" fill="#f8fafc" font-size="17" font-weight="800">DuckDB</text>
+      </g>
+      <g transform="translate(730 0)">
+        <rect width="134" height="56" rx="8" fill="#15232a" stroke="#44a8c4"/>
+        <use href="#database" x="14" y="16" width="24" height="24" color="#44a8c4"/>
+        <text x="85" y="34" text-anchor="middle" fill="#f8fafc" font-size="17" font-weight="800">SQLite</text>
+      </g>
+    </g>
+  </g>
+</svg>

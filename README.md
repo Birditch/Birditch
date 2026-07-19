@@ -11,12 +11,12 @@
 
 <p align="center">
   <a href="https://github.com/Birditch?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Birditch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img height="32" src="https://raw.githubusercontent.com/Birditch/Birditch/output/profile-github.svg" alt="GitHub @Birditch"/>
   </a>
   <a href="https://github.com/Birditch?tab=followers">
-    <img src="https://img.shields.io/github/followers/Birditch?style=for-the-badge&logo=github&label=Followers&color=2ea043&labelColor=0d1117" alt="followers"/>
+    <img height="32" src="https://raw.githubusercontent.com/Birditch/Birditch/output/profile-followers.svg" alt="Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/New%20York-UTC--04-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="New York UTC-04"/>
+  <img height="32" src="https://raw.githubusercontent.com/Birditch/Birditch/output/profile-timezone.svg" alt="New York UTC-04"/>
 </p>
 
 ---
@@ -32,11 +32,15 @@
 ## 技术栈
 
 <p align="center">
-  <img width="100%" src="./assets/tech-stack.svg" alt="Java, Node.js, Python, PHP, C#, C++, Rust"/>
+  <img width="100%" src="./assets/tech-stack.svg" alt="Node.js, Java, C#, PHP, C++, Go"/>
 </p>
 
+---
+
+## 数据库
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,python,php,cs,cpp,rust,ts,go,docker,linux,nginx,redis,postgres,git,githubactions,vscode&perline=9" alt="tech icons"/>
+  <img width="100%" src="./assets/database-stack.svg" alt="MySQL, MariaDB, PostgreSQL, ClickHouse, DuckDB, SQLite"/>
 </p>
 
 ---
@@ -48,7 +52,7 @@
     <td width="50%" valign="top">
       <h3>系统与后端</h3>
       <ul>
-        <li>Java / Node.js 服务端工程</li>
+        <li>Node.js / Java / Go 服务端工程</li>
         <li>API 设计、鉴权、任务队列和数据一致性</li>
         <li>部署、监控、回滚和运行时配置</li>
       </ul>
@@ -56,7 +60,7 @@
     <td width="50%" valign="top">
       <h3>工具与自动化</h3>
       <ul>
-        <li>Python / PHP / Shell 自动化脚本</li>
+        <li>PHP / Shell 自动化脚本</li>
         <li>跨平台 CLI、诊断工具和批处理流程</li>
         <li>CI/CD、GitHub Actions 和质量门禁</li>
       </ul>
@@ -68,7 +72,7 @@
       <ul>
         <li>C# / C++ 桌面和系统侧能力</li>
         <li>网络、文件、进程和平台 API 集成</li>
-        <li>对 Rust 的工程化落地保持投入</li>
+        <li>对跨平台工程化落地保持投入</li>
       </ul>
     </td>
     <td width="50%" valign="top">

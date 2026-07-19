@@ -12,6 +12,12 @@ const weeklyOutput =
   process.env.WEEKLY_COMMITS_OUTPUT || "assets/weekly-commits.svg";
 const contributionsOutput =
   process.env.CONTRIBUTIONS_OUTPUT || "assets/contribution-calendar.svg";
+const githubBadgeOutput =
+  process.env.GITHUB_BADGE_OUTPUT || "assets/profile-github.svg";
+const followersBadgeOutput =
+  process.env.FOLLOWERS_BADGE_OUTPUT || "assets/profile-followers.svg";
+const timezoneBadgeOutput =
+  process.env.TIMEZONE_BADGE_OUTPUT || "assets/profile-timezone.svg";
 const execFileAsync = promisify(execFile);
 
 const headers = token
@@ -166,6 +172,46 @@ async function fetchContributionCalendar(from, to) {
       collection.restrictedContributionsCount || 0,
     ),
   };
+}
+
+async function fetchUserProfile() {
+  const url = `https://api.github.com/users/${encodeURIComponent(login)}`;
+  let data;
+
+  if (headers) {
+    const response = await fetch(url, { headers });
+    if (!response.ok) {
+      const body = await response.text();
+      throw new Error(
+        `GitHub profile query failed: ${response.status} ${body}`,
+      );
+    }
+    data = await response.json();
+  } else {
+    const { stdout } = await execFileAsync("gh", ["api", `users/${login}`], {
+      maxBuffer: 1024 * 1024,
+    });
+    data = JSON.parse(stdout);
+  }
+
+  return {
+    login: data.login || login,
+    followers: Number(data.followers || 0),
+  };
+}
+
+function buildBadgeSvg({ title, label, value, accent, width }) {
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="32" viewBox="0 0 ${width} 32" role="img" aria-labelledby="title">
+  <title id="title">${escapeXml(title)}</title>
+  <rect width="${width}" height="32" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <rect width="5" height="32" rx="2" fill="${accent}"/>
+  <circle cx="22" cy="16" r="4" fill="${accent}"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="34" y="20" fill="#8b949e" font-size="11" font-weight="800">${escapeXml(label)}</text>
+    <text x="${width - 12}" y="20" text-anchor="end" fill="#f8fafc" font-size="13" font-weight="800">${escapeXml(value)}</text>
+  </g>
+</svg>
+`;
 }
 
 function buildWeeklySvg(days) {
@@ -336,9 +382,42 @@ calendarTo.setUTCHours(23, 59, 59, 999);
 const calendarFrom = new Date(calendarTo);
 calendarFrom.setUTCDate(calendarTo.getUTCDate() - 364);
 calendarFrom.setUTCHours(0, 0, 0, 0);
-const calendar = await fetchContributionCalendar(calendarFrom, calendarTo);
+const [calendar, profile] = await Promise.all([
+  fetchContributionCalendar(calendarFrom, calendarTo),
+  fetchUserProfile(),
+]);
 
 await Promise.all([
   writeSvg(weeklyOutput, buildWeeklySvg(weeklyDays)),
   writeSvg(contributionsOutput, buildContributionSvg(calendar)),
+  writeSvg(
+    githubBadgeOutput,
+    buildBadgeSvg({
+      title: `GitHub profile for ${profile.login}`,
+      label: "GITHUB",
+      value: `@${profile.login}`,
+      accent: "#58a6ff",
+      width: 188,
+    }),
+  ),
+  writeSvg(
+    followersBadgeOutput,
+    buildBadgeSvg({
+      title: `${profile.followers} GitHub followers`,
+      label: "FOLLOWERS",
+      value: profile.followers,
+      accent: "#2ea043",
+      width: 154,
+    }),
+  ),
+  writeSvg(
+    timezoneBadgeOutput,
+    buildBadgeSvg({
+      title: "New York time zone UTC-04",
+      label: "NEW YORK",
+      value: "UTC-04",
+      accent: "#f0b72f",
+      width: 170,
+    }),
+  ),
 ]);

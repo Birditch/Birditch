@@ -30,24 +30,27 @@ jobs:
           ref: output
           path: output
 
-      - name: Generate responsive profile charts
+      - name: Generate responsive profile assets
         run: node source/.github/scripts/generate-weekly-commits.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           PROFILE_LOGIN: Birditch
           WEEKLY_COMMITS_OUTPUT: output/weekly-commits.svg
           CONTRIBUTIONS_OUTPUT: output/contribution-calendar.svg
+          GITHUB_BADGE_OUTPUT: output/profile-github.svg
+          FOLLOWERS_BADGE_OUTPUT: output/profile-followers.svg
+          TIMEZONE_BADGE_OUTPUT: output/profile-timezone.svg
 
       - name: Commit updated profile assets
         working-directory: output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add weekly-commits.svg contribution-calendar.svg
+          git add weekly-commits.svg contribution-calendar.svg profile-github.svg profile-followers.svg profile-timezone.svg
           if git diff --cached --quiet; then
             echo "No profile asset changes."
           else
-            git commit -m "chore: update weekly profile metrics"
+            git commit -m "chore: update generated profile assets"
             git pull --rebase origin output
             git push
           fi

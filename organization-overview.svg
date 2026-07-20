@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="366" viewBox="0 0 960 366" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub 组织概览</title>
+  <desc id="desc">Birditch 当前加入 5 个组织，可访问 63 个组织仓库，其中实际参与 30 个一方仓库。</desc>
+  <rect width="960" height="366" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <path d="M0 1H960" stroke="#f0b72f" stroke-width="3"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+    <text x="48" y="45" fill="#ffffff" font-size="24" font-weight="800">Organization footprint</text>
+    <text x="48" y="71" fill="#8b949e" font-size="13">当前 GitHub 身份可见的全部组织；仓库名称与私有内容不公开。</text>
+    <text x="48" y="108" fill="#8b949e" font-size="11" font-weight="800">ORGANIZATIONS</text>
+    <text x="164" y="108" fill="#f8fafc" font-size="18" font-weight="800">5</text>
+    <text x="272" y="108" fill="#8b949e" font-size="11" font-weight="800">ACCESSIBLE REPOS</text>
+    <text x="406" y="108" fill="#f8fafc" font-size="18" font-weight="800">63</text>
+    <text x="516" y="108" fill="#8b949e" font-size="11" font-weight="800">PARTICIPATED</text>
+    <text x="625" y="108" fill="#f8fafc" font-size="18" font-weight="800">30</text>
+    <text x="48" y="146" fill="#6e7681" font-size="11" font-weight="800">ORGANIZATION</text>
+    <text x="535" y="146" text-anchor="end" fill="#6e7681" font-size="11" font-weight="800">REPOS</text>
+    <text x="690" y="146" text-anchor="end" fill="#6e7681" font-size="11" font-weight="800">USED</text>
+    <text x="912" y="146" text-anchor="end" fill="#6e7681" font-size="11" font-weight="800">LAST ACTIVITY</text>
+    
+        <g>
+          <circle cx="54" cy="169" r="4" fill="#39d353"/>
+          <text x="70" y="174" fill="#f8fafc" font-size="15" font-weight="800">birditch-dev</text>
+          <text x="535" y="174" text-anchor="end" fill="#c9d1d9" font-size="14">23</text>
+          <text x="690" y="174" text-anchor="end" fill="#c9d1d9" font-size="14">22</text>
+          <text x="912" y="174" text-anchor="end" fill="#8b949e" font-size="13">2026-07-20</text>
+          <path d="M48 187H912" stroke="#21262d"/>
+        </g>
+        <g>
+          <circle cx="54" cy="205" r="4" fill="#58a6ff"/>
+          <text x="70" y="210" fill="#f8fafc" font-size="15" font-weight="800">baoma-inc</text>
+          <text x="535" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
+          <text x="690" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
+          <text x="912" y="210" text-anchor="end" fill="#8b949e" font-size="13">2026-07-20</text>
+          <path d="M48 223H912" stroke="#21262d"/>
+        </g>
+        <g>
+          <circle cx="54" cy="241" r="4" fill="#58a6ff"/>
+          <text x="70" y="246" fill="#f8fafc" font-size="15" font-weight="800">Luo-Projects</text>
+          <text x="535" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">10</text>
+          <text x="690" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">3</text>
+          <text x="912" y="246" text-anchor="end" fill="#8b949e" font-size="13">2026-07-04</text>
+          <path d="M48 259H912" stroke="#21262d"/>
+        </g>
+        <g>
+          <circle cx="54" cy="277" r="4" fill="#58a6ff"/>
+          <text x="70" y="282" fill="#f8fafc" font-size="15" font-weight="800">1rzsTeam</text>
+          <text x="535" y="282" text-anchor="end" fill="#c9d1d9" font-size="14">13</text>
+          <text x="690" y="282" text-anchor="end" fill="#c9d1d9" font-size="14">1</text>
+          <text x="912" y="282" text-anchor="end" fill="#8b949e" font-size="13">2025-09-12</text>
+          <path d="M48 295H912" stroke="#21262d"/>
+        </g>
+        <g>
+          <circle cx="54" cy="313" r="4" fill="#58a6ff"/>
+          <text x="70" y="318" fill="#f8fafc" font-size="15" font-weight="800">FloraCore</text>
+          <text x="535" y="318" text-anchor="end" fill="#c9d1d9" font-size="14">13</text>
+          <text x="690" y="318" text-anchor="end" fill="#c9d1d9" font-size="14">0</text>
+          <text x="912" y="318" text-anchor="end" fill="#8b949e" font-size="13">2024-09-01</text>
+          <path d="M48 331H912" stroke="#21262d"/>
+        </g>
+  </g>
+</svg>

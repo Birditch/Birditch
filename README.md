@@ -29,10 +29,18 @@
 
 ---
 
-## 技术栈
+## 真实语言使用
 
 <p align="center">
-  <img width="100%" src="./assets/tech-stack.svg" alt="Node.js, Java, C#, PHP, C++, Go"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Birditch/Birditch/output/language-usage.svg" alt="根据个人与组织仓库实时统计的语言使用占比"/>
+</p>
+
+---
+
+## 组织与协作
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Birditch/Birditch/output/organization-overview.svg" alt="Birditch 所属 GitHub 组织与仓库参与概览"/>
 </p>
 
 ---
@@ -52,7 +60,7 @@
     <td width="50%" valign="top">
       <h3>系统与后端</h3>
       <ul>
-        <li>Node.js / Java / Go 服务端工程</li>
+        <li>服务端与跨平台客户端工程</li>
         <li>API 设计、鉴权、任务队列和数据一致性</li>
         <li>部署、监控、回滚和运行时配置</li>
       </ul>
@@ -60,7 +68,7 @@
     <td width="50%" valign="top">
       <h3>工具与自动化</h3>
       <ul>
-        <li>PHP / Shell 自动化脚本</li>
+        <li>自动化脚本与工作流编排</li>
         <li>跨平台 CLI、诊断工具和批处理流程</li>
         <li>CI/CD、GitHub Actions 和质量门禁</li>
       </ul>
@@ -70,7 +78,7 @@
     <td width="50%" valign="top">
       <h3>底层与性能</h3>
       <ul>
-        <li>C# / C++ 桌面和系统侧能力</li>
+        <li>桌面和系统侧能力</li>
         <li>网络、文件、进程和平台 API 集成</li>
         <li>对跨平台工程化落地保持投入</li>
       </ul>

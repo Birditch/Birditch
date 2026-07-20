@@ -38,17 +38,13 @@
   </g>
 
   <g transform="translate(62 200)" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">
-    <rect x="0" y="0" width="98" height="30" rx="15" fill="#238636"/>
-    <text x="19" y="20" fill="#ffffff">Node.js</text>
-    <rect x="108" y="0" width="82" height="30" rx="15" fill="#e76f00"/>
-    <text x="126" y="20" fill="#ffffff">Java</text>
-    <rect x="200" y="0" width="68" height="30" rx="15" fill="#7c3aed"/>
-    <text x="220" y="20" fill="#ffffff">C#</text>
-    <rect x="278" y="0" width="74" height="30" rx="15" fill="#4f46e5"/>
-    <text x="300" y="20" fill="#ffffff">PHP</text>
-    <rect x="362" y="0" width="74" height="30" rx="15" fill="#2563eb"/>
-    <text x="382" y="20" fill="#ffffff">C++</text>
-    <rect x="446" y="0" width="64" height="30" rx="15" fill="#0e7490"/>
-    <text x="468" y="20" fill="#ffffff">Go</text>
+    <rect x="0" y="0" width="100" height="30" rx="15" fill="#1f6feb"/>
+    <text x="50" y="20" text-anchor="middle" fill="#ffffff">Backend</text>
+    <rect x="112" y="0" width="120" height="30" rx="15" fill="#238636"/>
+    <text x="172" y="20" text-anchor="middle" fill="#ffffff">Automation</text>
+    <rect x="244" y="0" width="144" height="30" rx="15" fill="#7c3aed"/>
+    <text x="316" y="20" text-anchor="middle" fill="#ffffff">Developer tools</text>
+    <rect x="400" y="0" width="124" height="30" rx="15" fill="#d29922"/>
+    <text x="462" y="20" text-anchor="middle" fill="#0d1117">Data systems</text>
   </g>
 </svg>

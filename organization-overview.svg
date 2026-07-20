@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="366" viewBox="0 0 960 366" role="img" aria-labelledby="title desc">
   <title id="title">GitHub 组织概览</title>
-  <desc id="desc">Birditch 当前加入 5 个组织，可访问 67 个组织仓库，其中实际参与 35 个一方仓库。</desc>
+  <desc id="desc">Birditch 当前加入 5 个组织，可访问 68 个组织仓库，其中实际参与 35 个一方仓库。</desc>
   <rect width="960" height="366" rx="8" fill="#0d1117" stroke="#30363d"/>
   <path d="M0 1H960" stroke="#f0b72f" stroke-width="3"/>
   <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
@@ -9,7 +9,7 @@
     <text x="48" y="108" fill="#8b949e" font-size="11" font-weight="800">ORGANIZATIONS</text>
     <text x="164" y="108" fill="#f8fafc" font-size="18" font-weight="800">5</text>
     <text x="272" y="108" fill="#8b949e" font-size="11" font-weight="800">ACCESSIBLE REPOS</text>
-    <text x="406" y="108" fill="#f8fafc" font-size="18" font-weight="800">67</text>
+    <text x="406" y="108" fill="#f8fafc" font-size="18" font-weight="800">68</text>
     <text x="516" y="108" fill="#8b949e" font-size="11" font-weight="800">PARTICIPATED</text>
     <text x="625" y="108" fill="#f8fafc" font-size="18" font-weight="800">35</text>
     <text x="48" y="146" fill="#6e7681" font-size="11" font-weight="800">ORGANIZATION</text>
@@ -19,17 +19,17 @@
     
         <g>
           <circle cx="54" cy="169" r="4" fill="#39d353"/>
-          <text x="70" y="174" fill="#f8fafc" font-size="15" font-weight="800">birditch-dev</text>
-          <text x="535" y="174" text-anchor="end" fill="#c9d1d9" font-size="14">27</text>
-          <text x="690" y="174" text-anchor="end" fill="#c9d1d9" font-size="14">27</text>
+          <text x="70" y="174" fill="#f8fafc" font-size="15" font-weight="800">baoma-inc</text>
+          <text x="535" y="174" text-anchor="end" fill="#c9d1d9" font-size="14">5</text>
+          <text x="690" y="174" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
           <text x="912" y="174" text-anchor="end" fill="#8b949e" font-size="13">2026-07-20</text>
           <path d="M48 187H912" stroke="#21262d"/>
         </g>
         <g>
           <circle cx="54" cy="205" r="4" fill="#58a6ff"/>
-          <text x="70" y="210" fill="#f8fafc" font-size="15" font-weight="800">baoma-inc</text>
-          <text x="535" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
-          <text x="690" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
+          <text x="70" y="210" fill="#f8fafc" font-size="15" font-weight="800">birditch-dev</text>
+          <text x="535" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">27</text>
+          <text x="690" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">27</text>
           <text x="912" y="210" text-anchor="end" fill="#8b949e" font-size="13">2026-07-20</text>
           <path d="M48 223H912" stroke="#21262d"/>
         </g>

@@ -1,44 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="370" viewBox="0 0 960 370" role="img" aria-labelledby="title desc">
   <title id="title">真实语言使用统计</title>
-  <desc id="desc">根据 Birditch 本人和所属组织中实际参与的 51 个一方仓库汇总 GitHub Linguist 语言字节。</desc>
+  <desc id="desc">根据 Birditch 本人和所属组织中实际参与的 52 个一方仓库汇总 GitHub Linguist 语言字节。</desc>
   <rect width="960" height="370" rx="8" fill="#0d1117" stroke="#30363d"/>
   <path d="M0 1H960" stroke="#58a6ff" stroke-width="3"/>
   <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
     <text x="48" y="45" fill="#ffffff" font-size="24" font-weight="800">Actual language usage</text>
     <text x="48" y="71" fill="#8b949e" font-size="13">个人 + 5 个组织 · 仅统计实际参与的一方仓库 · 排除 fork、归档与构建标记语言</text>
     <text x="48" y="106" fill="#8b949e" font-size="11" font-weight="800">REPOSITORIES</text>
-    <text x="146" y="106" fill="#f8fafc" font-size="18" font-weight="800">51</text>
+    <text x="146" y="106" fill="#f8fafc" font-size="18" font-weight="800">52</text>
     <text x="246" y="106" fill="#8b949e" font-size="11" font-weight="800">PUBLIC / PRIVATE</text>
-    <text x="377" y="106" fill="#f8fafc" font-size="18" font-weight="800">8 / 43</text>
+    <text x="377" y="106" fill="#f8fafc" font-size="18" font-weight="800">8 / 44</text>
     <text x="524" y="106" fill="#8b949e" font-size="11" font-weight="800">SOURCE VOLUME</text>
-    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">132.9 MB</text>
-    <rect x="48" y="134" width="327" height="16" fill="#b07219"><title>Java 37.8%</title></rect><rect x="375" y="134" width="284" height="16" fill="#882B0F"><title>ActionScript 32.9%</title></rect><rect x="659" y="134" width="128" height="16" fill="#3178c6"><title>TypeScript 14.8%</title></rect><rect x="787" y="134" width="39" height="16" fill="#00ADD8"><title>Go 4.6%</title></rect><rect x="826" y="134" width="23" height="16" fill="#178600"><title>C# 2.6%</title></rect><rect x="849" y="134" width="19" height="16" fill="#A97BFF"><title>Kotlin 2.2%</title></rect><rect x="868" y="134" width="11" height="16" fill="#f34b7d"><title>C++ 1.3%</title></rect><rect x="879" y="134" width="8" height="16" fill="#4F5D95"><title>PHP 1.0%</title></rect><rect x="887" y="134" width="25" height="16" fill="#6e7681"><title>Other 2.8%</title></rect>
+    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">133.8 MB</text>
+    <rect x="48" y="134" width="324" height="16" fill="#b07219"><title>Java 37.5%</title></rect><rect x="372" y="134" width="282" height="16" fill="#882B0F"><title>ActionScript 32.7%</title></rect><rect x="654" y="134" width="133" height="16" fill="#3178c6"><title>TypeScript 15.4%</title></rect><rect x="787" y="134" width="39" height="16" fill="#00ADD8"><title>Go 4.5%</title></rect><rect x="826" y="134" width="23" height="16" fill="#178600"><title>C# 2.6%</title></rect><rect x="849" y="134" width="19" height="16" fill="#A97BFF"><title>Kotlin 2.2%</title></rect><rect x="868" y="134" width="11" height="16" fill="#f34b7d"><title>C++ 1.3%</title></rect><rect x="879" y="134" width="8" height="16" fill="#4F5D95"><title>PHP 1.0%</title></rect><rect x="887" y="134" width="25" height="16" fill="#6e7681"><title>Other 2.8%</title></rect>
     
         <g>
           <rect x="48" y="176" width="10" height="10" rx="2" fill="#b07219"/>
           <text x="66" y="185" fill="#f8fafc" font-size="14" font-weight="800">Java</text>
-          <text x="460" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">37.8% · 50.3 MB</text>
+          <text x="460" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">37.5% · 50.3 MB</text>
           <rect x="48" y="196" width="412" height="5" rx="2" fill="#21262d"/>
-          <rect x="48" y="196" width="156" height="5" rx="2" fill="#b07219"/>
+          <rect x="48" y="196" width="155" height="5" rx="2" fill="#b07219"/>
         </g>
         <g>
           <rect x="500" y="176" width="10" height="10" rx="2" fill="#882B0F"/>
           <text x="518" y="185" fill="#f8fafc" font-size="14" font-weight="800">ActionScript</text>
-          <text x="912" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">32.9% · 43.7 MB</text>
+          <text x="912" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">32.7% · 43.7 MB</text>
           <rect x="500" y="196" width="412" height="5" rx="2" fill="#21262d"/>
-          <rect x="500" y="196" width="136" height="5" rx="2" fill="#882B0F"/>
+          <rect x="500" y="196" width="135" height="5" rx="2" fill="#882B0F"/>
         </g>
         <g>
           <rect x="48" y="220" width="10" height="10" rx="2" fill="#3178c6"/>
           <text x="66" y="229" fill="#f8fafc" font-size="14" font-weight="800">TypeScript</text>
-          <text x="460" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">14.8% · 19.6 MB</text>
+          <text x="460" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">15.4% · 20.6 MB</text>
           <rect x="48" y="240" width="412" height="5" rx="2" fill="#21262d"/>
-          <rect x="48" y="240" width="61" height="5" rx="2" fill="#3178c6"/>
+          <rect x="48" y="240" width="63" height="5" rx="2" fill="#3178c6"/>
         </g>
         <g>
           <rect x="500" y="220" width="10" height="10" rx="2" fill="#00ADD8"/>
           <text x="518" y="229" fill="#f8fafc" font-size="14" font-weight="800">Go</text>
-          <text x="912" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">4.6% · 6.1 MB</text>
+          <text x="912" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">4.5% · 6.1 MB</text>
           <rect x="500" y="240" width="412" height="5" rx="2" fill="#21262d"/>
           <rect x="500" y="240" width="19" height="5" rx="2" fill="#00ADD8"/>
         </g>

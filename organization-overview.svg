@@ -27,17 +27,17 @@
         </g>
         <g>
           <circle cx="54" cy="205" r="4" fill="#58a6ff"/>
-          <text x="70" y="210" fill="#f8fafc" font-size="15" font-weight="800">Luo-Projects</text>
-          <text x="535" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">10</text>
-          <text x="690" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
+          <text x="70" y="210" fill="#f8fafc" font-size="15" font-weight="800">baoma-inc</text>
+          <text x="535" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">6</text>
+          <text x="690" y="210" text-anchor="end" fill="#c9d1d9" font-size="14">5</text>
           <text x="912" y="210" text-anchor="end" fill="#8b949e" font-size="13">2026-07-29</text>
           <path d="M48 223H912" stroke="#21262d"/>
         </g>
         <g>
           <circle cx="54" cy="241" r="4" fill="#58a6ff"/>
-          <text x="70" y="246" fill="#f8fafc" font-size="15" font-weight="800">baoma-inc</text>
-          <text x="535" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">6</text>
-          <text x="690" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">5</text>
+          <text x="70" y="246" fill="#f8fafc" font-size="15" font-weight="800">Luo-Projects</text>
+          <text x="535" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">10</text>
+          <text x="690" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
           <text x="912" y="246" text-anchor="end" fill="#8b949e" font-size="13">2026-07-29</text>
           <path d="M48 259H912" stroke="#21262d"/>
         </g>

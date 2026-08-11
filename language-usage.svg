@@ -38,7 +38,7 @@
         <g>
           <rect x="500" y="220" width="10" height="10" rx="2" fill="#00ADD8"/>
           <text x="518" y="229" fill="#f8fafc" font-size="14" font-weight="800">Go</text>
-          <text x="912" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">5.0% · 7.1 MB</text>
+          <text x="912" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">5.0% · 7.2 MB</text>
           <rect x="500" y="240" width="412" height="5" rx="2" fill="#21262d"/>
           <rect x="500" y="240" width="21" height="5" rx="2" fill="#00ADD8"/>
         </g>

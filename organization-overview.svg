@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="438" viewBox="0 0 960 438" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="474" viewBox="0 0 960 474" role="img" aria-labelledby="title desc">
   <title id="title">GitHub 组织概览</title>
-  <desc id="desc">Birditch 当前加入 7 个组织，可访问 136 个组织仓库，其中实际参与 47 个一方仓库。</desc>
-  <rect width="960" height="438" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <desc id="desc">Birditch 当前加入 8 个组织，可访问 136 个组织仓库，其中实际参与 47 个一方仓库。</desc>
+  <rect width="960" height="474" rx="8" fill="#0d1117" stroke="#30363d"/>
   <path d="M0 1H960" stroke="#f0b72f" stroke-width="3"/>
   <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
     <text x="48" y="45" fill="#ffffff" font-size="24" font-weight="800">Organization footprint</text>
     <text x="48" y="71" fill="#8b949e" font-size="13">当前 GitHub 身份可见的全部组织；仓库名称与私有内容不公开。</text>
     <text x="48" y="108" fill="#8b949e" font-size="11" font-weight="800">ORGANIZATIONS</text>
-    <text x="164" y="108" fill="#f8fafc" font-size="18" font-weight="800">7</text>
+    <text x="164" y="108" fill="#f8fafc" font-size="18" font-weight="800">8</text>
     <text x="272" y="108" fill="#8b949e" font-size="11" font-weight="800">ACCESSIBLE REPOS</text>
     <text x="406" y="108" fill="#f8fafc" font-size="18" font-weight="800">136</text>
     <text x="516" y="108" fill="#8b949e" font-size="11" font-weight="800">PARTICIPATED</text>
@@ -72,6 +72,14 @@
           <text x="690" y="390" text-anchor="end" fill="#c9d1d9" font-size="14">0</text>
           <text x="912" y="390" text-anchor="end" fill="#8b949e" font-size="13">2024-09-01</text>
           <path d="M48 403H912" stroke="#21262d"/>
+        </g>
+        <g>
+          <circle cx="54" cy="421" r="4" fill="#58a6ff"/>
+          <text x="70" y="426" fill="#f8fafc" font-size="15" font-weight="800">fronted-tjdev</text>
+          <text x="535" y="426" text-anchor="end" fill="#c9d1d9" font-size="14">0</text>
+          <text x="690" y="426" text-anchor="end" fill="#c9d1d9" font-size="14">0</text>
+          <text x="912" y="426" text-anchor="end" fill="#8b949e" font-size="13">—</text>
+          <path d="M48 439H912" stroke="#21262d"/>
         </g>
   </g>
 </svg>

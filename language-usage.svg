@@ -5,7 +5,7 @@
   <path d="M0 1H960" stroke="#58a6ff" stroke-width="3"/>
   <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
     <text x="48" y="45" fill="#ffffff" font-size="24" font-weight="800">Actual language usage</text>
-    <text x="48" y="71" fill="#8b949e" font-size="13">个人 + 8 个组织 · 仅统计实际参与的一方仓库 · 排除 fork、归档与构建标记语言</text>
+    <text x="48" y="71" fill="#8b949e" font-size="13">个人 + 9 个组织 · 仅统计实际参与的一方仓库 · 排除 fork、归档与构建标记语言</text>
     <text x="48" y="106" fill="#8b949e" font-size="11" font-weight="800">REPOSITORIES</text>
     <text x="146" y="106" fill="#f8fafc" font-size="18" font-weight="800">68</text>
     <text x="246" y="106" fill="#8b949e" font-size="11" font-weight="800">PUBLIC / PRIVATE</text>

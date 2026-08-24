@@ -7,48 +7,48 @@
     <text x="42" y="48" fill="#ffffff" font-size="24" font-weight="800">近7天提交次数</text>
     <text x="42" y="76" fill="#8b949e" font-size="14">公开与授权可见的私有仓库，仅汇总数量。</text>
     <text x="42" y="136" fill="#58a6ff" font-size="64" font-weight="900">37</text>
-    <text x="44" y="166" fill="#8b949e" font-size="13">更新于 2026/08/23 14:48 · New York</text>
+    <text x="44" y="166" fill="#8b949e" font-size="13">更新于 2026/08/23 20:28 · New York</text>
         <g>
-          <rect x="330" y="136" width="48" height="10" rx="6" fill="#30363d"/>
-          <text x="354" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">0</text>
-          <text x="354" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Mon</text>
-          <text x="354" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-17</text>
+          <rect x="330" y="117" width="48" height="29" rx="6" fill="#58a6ff"/>
+          <text x="354" y="107" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">6</text>
+          <text x="354" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Tue</text>
+          <text x="354" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-18</text>
         </g>
         <g>
-          <rect x="404" y="117" width="48" height="29" rx="6" fill="#58a6ff"/>
-          <text x="428" y="107" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">6</text>
-          <text x="428" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Tue</text>
-          <text x="428" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-18</text>
+          <rect x="404" y="54" width="48" height="92" rx="6" fill="#58a6ff"/>
+          <text x="428" y="44" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">19</text>
+          <text x="428" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Wed</text>
+          <text x="428" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-19</text>
         </g>
         <g>
-          <rect x="478" y="54" width="48" height="92" rx="6" fill="#58a6ff"/>
-          <text x="502" y="44" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">19</text>
-          <text x="502" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Wed</text>
-          <text x="502" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-19</text>
+          <rect x="478" y="136" width="48" height="10" rx="6" fill="#30363d"/>
+          <text x="502" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">0</text>
+          <text x="502" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Thu</text>
+          <text x="502" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-20</text>
         </g>
         <g>
-          <rect x="552" y="136" width="48" height="10" rx="6" fill="#30363d"/>
-          <text x="576" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">0</text>
-          <text x="576" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Thu</text>
-          <text x="576" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-20</text>
+          <rect x="552" y="131" width="48" height="15" rx="6" fill="#58a6ff"/>
+          <text x="576" y="121" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">3</text>
+          <text x="576" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Fri</text>
+          <text x="576" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-21</text>
         </g>
         <g>
-          <rect x="626" y="131" width="48" height="15" rx="6" fill="#58a6ff"/>
-          <text x="650" y="121" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">3</text>
-          <text x="650" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Fri</text>
-          <text x="650" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-21</text>
+          <rect x="626" y="102" width="48" height="44" rx="6" fill="#58a6ff"/>
+          <text x="650" y="92" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">9</text>
+          <text x="650" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Sat</text>
+          <text x="650" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-22</text>
         </g>
         <g>
-          <rect x="700" y="102" width="48" height="44" rx="6" fill="#58a6ff"/>
-          <text x="724" y="92" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">9</text>
-          <text x="724" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Sat</text>
-          <text x="724" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-22</text>
+          <rect x="700" y="136" width="48" height="10" rx="6" fill="#30363d"/>
+          <text x="724" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">0</text>
+          <text x="724" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Sun</text>
+          <text x="724" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-23</text>
         </g>
         <g>
           <rect x="774" y="136" width="48" height="10" rx="6" fill="#30363d"/>
           <text x="798" y="126" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="800">0</text>
-          <text x="798" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Sun</text>
-          <text x="798" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-23</text>
+          <text x="798" y="172" text-anchor="middle" fill="#8b949e" font-size="12" font-weight="700">Mon</text>
+          <text x="798" y="190" text-anchor="middle" fill="#8b949e" font-size="11">08-24</text>
         </g>
   </g>
 </svg>

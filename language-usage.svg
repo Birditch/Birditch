@@ -26,7 +26,7 @@
           <text x="518" y="185" fill="#f8fafc" font-size="14" font-weight="800">ActionScript</text>
           <text x="912" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">29.7% · 43.7 MB</text>
           <rect x="500" y="196" width="412" height="5" rx="2" fill="#21262d"/>
-          <rect x="500" y="196" width="123" height="5" rx="2" fill="#882B0F"/>
+          <rect x="500" y="196" width="122" height="5" rx="2" fill="#882B0F"/>
         </g>
         <g>
           <rect x="48" y="220" width="10" height="10" rx="2" fill="#3178c6"/>

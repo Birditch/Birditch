@@ -35,26 +35,26 @@
         </g>
         <g>
           <circle cx="54" cy="241" r="4" fill="#58a6ff"/>
-          <text x="70" y="246" fill="#f8fafc" font-size="15" font-weight="800">fronted-tjdev</text>
-          <text x="535" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">14</text>
-          <text x="690" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
+          <text x="70" y="246" fill="#f8fafc" font-size="15" font-weight="800">Inf-Network</text>
+          <text x="535" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">34</text>
+          <text x="690" y="246" text-anchor="end" fill="#c9d1d9" font-size="14">1</text>
           <text x="912" y="246" text-anchor="end" fill="#8b949e" font-size="13">2026-08-24</text>
           <path d="M48 259H912" stroke="#21262d"/>
         </g>
         <g>
           <circle cx="54" cy="277" r="4" fill="#58a6ff"/>
-          <text x="70" y="282" fill="#f8fafc" font-size="15" font-weight="800">Inf-Network</text>
-          <text x="535" y="282" text-anchor="end" fill="#c9d1d9" font-size="14">34</text>
-          <text x="690" y="282" text-anchor="end" fill="#c9d1d9" font-size="14">1</text>
+          <text x="70" y="282" fill="#f8fafc" font-size="15" font-weight="800">birditch-dev</text>
+          <text x="535" y="282" text-anchor="end" fill="#c9d1d9" font-size="14">40</text>
+          <text x="690" y="282" text-anchor="end" fill="#c9d1d9" font-size="14">38</text>
           <text x="912" y="282" text-anchor="end" fill="#8b949e" font-size="13">2026-08-24</text>
           <path d="M48 295H912" stroke="#21262d"/>
         </g>
         <g>
           <circle cx="54" cy="313" r="4" fill="#58a6ff"/>
-          <text x="70" y="318" fill="#f8fafc" font-size="15" font-weight="800">birditch-dev</text>
-          <text x="535" y="318" text-anchor="end" fill="#c9d1d9" font-size="14">40</text>
-          <text x="690" y="318" text-anchor="end" fill="#c9d1d9" font-size="14">38</text>
-          <text x="912" y="318" text-anchor="end" fill="#8b949e" font-size="13">2026-08-23</text>
+          <text x="70" y="318" fill="#f8fafc" font-size="15" font-weight="800">fronted-tjdev</text>
+          <text x="535" y="318" text-anchor="end" fill="#c9d1d9" font-size="14">14</text>
+          <text x="690" y="318" text-anchor="end" fill="#c9d1d9" font-size="14">4</text>
+          <text x="912" y="318" text-anchor="end" fill="#8b949e" font-size="13">2026-08-24</text>
           <path d="M48 331H912" stroke="#21262d"/>
         </g>
         <g>

@@ -11,29 +11,29 @@
     <text x="246" y="106" fill="#8b949e" font-size="11" font-weight="800">PUBLIC / PRIVATE</text>
     <text x="377" y="106" fill="#f8fafc" font-size="18" font-weight="800">8 / 61</text>
     <text x="524" y="106" fill="#8b949e" font-size="11" font-weight="800">SOURCE VOLUME</text>
-    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">146.7 MB</text>
-    <rect x="48" y="134" width="313" height="16" fill="#b07219"><title>Java 36.2%</title></rect><rect x="361" y="134" width="257" height="16" fill="#882B0F"><title>ActionScript 29.8%</title></rect><rect x="618" y="134" width="154" height="16" fill="#3178c6"><title>TypeScript 17.8%</title></rect><rect x="772" y="134" width="43" height="16" fill="#00ADD8"><title>Go 4.9%</title></rect><rect x="815" y="134" width="28" height="16" fill="#A97BFF"><title>Kotlin 3.3%</title></rect><rect x="843" y="134" width="28" height="16" fill="#178600"><title>C# 3.2%</title></rect><rect x="871" y="134" width="10" height="16" fill="#f34b7d"><title>C++ 1.2%</title></rect><rect x="881" y="134" width="8" height="16" fill="#4F5D95"><title>PHP 0.9%</title></rect><rect x="889" y="134" width="23" height="16" fill="#6e7681"><title>Other 2.7%</title></rect>
+    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">147.0 MB</text>
+    <rect x="48" y="134" width="312" height="16" fill="#b07219"><title>Java 36.1%</title></rect><rect x="360" y="134" width="257" height="16" fill="#882B0F"><title>ActionScript 29.7%</title></rect><rect x="617" y="134" width="155" height="16" fill="#3178c6"><title>TypeScript 18.0%</title></rect><rect x="772" y="134" width="43" height="16" fill="#00ADD8"><title>Go 4.9%</title></rect><rect x="815" y="134" width="28" height="16" fill="#A97BFF"><title>Kotlin 3.3%</title></rect><rect x="843" y="134" width="28" height="16" fill="#178600"><title>C# 3.2%</title></rect><rect x="871" y="134" width="10" height="16" fill="#f34b7d"><title>C++ 1.2%</title></rect><rect x="881" y="134" width="8" height="16" fill="#4F5D95"><title>PHP 0.9%</title></rect><rect x="889" y="134" width="23" height="16" fill="#6e7681"><title>Other 2.7%</title></rect>
     
         <g>
           <rect x="48" y="176" width="10" height="10" rx="2" fill="#b07219"/>
           <text x="66" y="185" fill="#f8fafc" font-size="14" font-weight="800">Java</text>
-          <text x="460" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">36.2% · 53.1 MB</text>
+          <text x="460" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">36.1% · 53.1 MB</text>
           <rect x="48" y="196" width="412" height="5" rx="2" fill="#21262d"/>
           <rect x="48" y="196" width="149" height="5" rx="2" fill="#b07219"/>
         </g>
         <g>
           <rect x="500" y="176" width="10" height="10" rx="2" fill="#882B0F"/>
           <text x="518" y="185" fill="#f8fafc" font-size="14" font-weight="800">ActionScript</text>
-          <text x="912" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">29.8% · 43.7 MB</text>
+          <text x="912" y="185" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">29.7% · 43.7 MB</text>
           <rect x="500" y="196" width="412" height="5" rx="2" fill="#21262d"/>
           <rect x="500" y="196" width="123" height="5" rx="2" fill="#882B0F"/>
         </g>
         <g>
           <rect x="48" y="220" width="10" height="10" rx="2" fill="#3178c6"/>
           <text x="66" y="229" fill="#f8fafc" font-size="14" font-weight="800">TypeScript</text>
-          <text x="460" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">17.8% · 26.1 MB</text>
+          <text x="460" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">18.0% · 26.4 MB</text>
           <rect x="48" y="240" width="412" height="5" rx="2" fill="#21262d"/>
-          <rect x="48" y="240" width="73" height="5" rx="2" fill="#3178c6"/>
+          <rect x="48" y="240" width="74" height="5" rx="2" fill="#3178c6"/>
         </g>
         <g>
           <rect x="500" y="220" width="10" height="10" rx="2" fill="#00ADD8"/>

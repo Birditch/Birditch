@@ -11,8 +11,8 @@
     <text x="246" y="106" fill="#8b949e" font-size="11" font-weight="800">PUBLIC / PRIVATE</text>
     <text x="377" y="106" fill="#f8fafc" font-size="18" font-weight="800">7 / 66</text>
     <text x="524" y="106" fill="#8b949e" font-size="11" font-weight="800">SOURCE VOLUME</text>
-    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">159.5 MB</text>
-    <rect x="48" y="134" width="298" height="16" fill="#b07219"><title>Java 34.5%</title></rect><rect x="346" y="134" width="237" height="16" fill="#882B0F"><title>ActionScript 27.4%</title></rect><rect x="583" y="134" width="165" height="16" fill="#3178c6"><title>TypeScript 19.1%</title></rect><rect x="748" y="134" width="40" height="16" fill="#00ADD8"><title>Go 4.6%</title></rect><rect x="788" y="134" width="34" height="16" fill="#A97BFF"><title>Kotlin 3.9%</title></rect><rect x="822" y="134" width="30" height="16" fill="#7355dd"><title>C# 3.4%</title></rect><rect x="852" y="134" width="15" height="16" fill="#41b883"><title>Vue 1.7%</title></rect><rect x="867" y="134" width="14" height="16" fill="#F05138"><title>Swift 1.6%</title></rect><rect x="881" y="134" width="31" height="16" fill="#6e7681"><title>Other 3.7%</title></rect>
+    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">159.3 MB</text>
+    <rect x="48" y="134" width="298" height="16" fill="#b07219"><title>Java 34.5%</title></rect><rect x="346" y="134" width="237" height="16" fill="#882B0F"><title>ActionScript 27.4%</title></rect><rect x="583" y="134" width="165" height="16" fill="#3178c6"><title>TypeScript 19.1%</title></rect><rect x="748" y="134" width="40" height="16" fill="#00ADD8"><title>Go 4.6%</title></rect><rect x="788" y="134" width="34" height="16" fill="#A97BFF"><title>Kotlin 3.9%</title></rect><rect x="822" y="134" width="29" height="16" fill="#7355dd"><title>C# 3.4%</title></rect><rect x="851" y="134" width="15" height="16" fill="#41b883"><title>Vue 1.7%</title></rect><rect x="866" y="134" width="14" height="16" fill="#F05138"><title>Swift 1.6%</title></rect><rect x="880" y="134" width="32" height="16" fill="#6e7681"><title>Other 3.7%</title></rect>
     
         <g>
           <rect x="48" y="176" width="10" height="10" rx="2" fill="#b07219"/>
@@ -31,7 +31,7 @@
         <g>
           <rect x="48" y="220" width="10" height="10" rx="2" fill="#3178c6"/>
           <text x="66" y="229" fill="#f8fafc" font-size="14" font-weight="800">TypeScript</text>
-          <text x="460" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">19.1% · 30.5 MB</text>
+          <text x="460" y="229" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">19.1% · 30.4 MB</text>
           <rect x="48" y="240" width="412" height="5" rx="2" fill="#21262d"/>
           <rect x="48" y="240" width="79" height="5" rx="2" fill="#3178c6"/>
         </g>

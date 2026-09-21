@@ -11,8 +11,8 @@
     <text x="246" y="106" fill="#8b949e" font-size="11" font-weight="800">PUBLIC / PRIVATE</text>
     <text x="377" y="106" fill="#f8fafc" font-size="18" font-weight="800">7 / 67</text>
     <text x="524" y="106" fill="#8b949e" font-size="11" font-weight="800">SOURCE VOLUME</text>
-    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">174.6 MB</text>
-    <rect x="48" y="134" width="272" height="16" fill="#b07219"><title>Java 31.5%</title></rect><rect x="320" y="134" width="216" height="16" fill="#882B0F"><title>ActionScript 25.0%</title></rect><rect x="536" y="134" width="181" height="16" fill="#3178c6"><title>TypeScript 21.0%</title></rect><rect x="717" y="134" width="37" height="16" fill="#00ADD8"><title>Go 4.3%</title></rect><rect x="754" y="134" width="32" height="16" fill="#A97BFF"><title>Kotlin 3.7%</title></rect><rect x="786" y="134" width="31" height="16" fill="#00B4AB"><title>Dart 3.5%</title></rect><rect x="817" y="134" width="27" height="16" fill="#7355dd"><title>C# 3.1%</title></rect><rect x="844" y="134" width="23" height="16" fill="#41b883"><title>Vue 2.6%</title></rect><rect x="867" y="134" width="45" height="16" fill="#6e7681"><title>Other 5.3%</title></rect>
+    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">174.7 MB</text>
+    <rect x="48" y="134" width="272" height="16" fill="#b07219"><title>Java 31.5%</title></rect><rect x="320" y="134" width="216" height="16" fill="#882B0F"><title>ActionScript 25.0%</title></rect><rect x="536" y="134" width="181" height="16" fill="#3178c6"><title>TypeScript 21.0%</title></rect><rect x="717" y="134" width="37" height="16" fill="#00ADD8"><title>Go 4.3%</title></rect><rect x="754" y="134" width="32" height="16" fill="#A97BFF"><title>Kotlin 3.7%</title></rect><rect x="786" y="134" width="31" height="16" fill="#00B4AB"><title>Dart 3.6%</title></rect><rect x="817" y="134" width="27" height="16" fill="#7355dd"><title>C# 3.1%</title></rect><rect x="844" y="134" width="23" height="16" fill="#41b883"><title>Vue 2.6%</title></rect><rect x="867" y="134" width="45" height="16" fill="#6e7681"><title>Other 5.3%</title></rect>
     
         <g>
           <rect x="48" y="176" width="10" height="10" rx="2" fill="#b07219"/>
@@ -52,7 +52,7 @@
         <g>
           <rect x="500" y="264" width="10" height="10" rx="2" fill="#00B4AB"/>
           <text x="518" y="273" fill="#f8fafc" font-size="14" font-weight="800">Dart</text>
-          <text x="912" y="273" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">3.5% · 6.2 MB</text>
+          <text x="912" y="273" text-anchor="end" fill="#c9d1d9" font-size="13" font-weight="700">3.6% · 6.2 MB</text>
           <rect x="500" y="284" width="412" height="5" rx="2" fill="#21262d"/>
           <rect x="500" y="284" width="15" height="5" rx="2" fill="#00B4AB"/>
         </g>

@@ -11,7 +11,7 @@
     <text x="246" y="106" fill="#8b949e" font-size="11" font-weight="800">PUBLIC / PRIVATE</text>
     <text x="377" y="106" fill="#f8fafc" font-size="18" font-weight="800">7 / 67</text>
     <text x="524" y="106" fill="#8b949e" font-size="11" font-weight="800">SOURCE VOLUME</text>
-    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">179.5 MB</text>
+    <text x="648" y="106" fill="#f8fafc" font-size="18" font-weight="800">179.6 MB</text>
     <rect x="48" y="134" width="264" height="16" fill="#b07219"><title>Java 30.6%</title></rect><rect x="312" y="134" width="210" height="16" fill="#882B0F"><title>ActionScript 24.3%</title></rect><rect x="522" y="134" width="178" height="16" fill="#3178c6"><title>TypeScript 20.6%</title></rect><rect x="700" y="134" width="47" height="16" fill="#00B4AB"><title>Dart 5.4%</title></rect><rect x="747" y="134" width="36" height="16" fill="#00ADD8"><title>Go 4.2%</title></rect><rect x="783" y="134" width="32" height="16" fill="#A97BFF"><title>Kotlin 3.7%</title></rect><rect x="815" y="134" width="26" height="16" fill="#7355dd"><title>C# 3.0%</title></rect><rect x="841" y="134" width="23" height="16" fill="#41b883"><title>Vue 2.6%</title></rect><rect x="864" y="134" width="48" height="16" fill="#6e7681"><title>Other 5.5%</title></rect>
     
         <g>
